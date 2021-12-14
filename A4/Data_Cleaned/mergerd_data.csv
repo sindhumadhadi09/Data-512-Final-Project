@@ -1,0 +1,624 @@
+,date,ConfirmedCases,DailyCases,State_Tribe_Territory,County_Name,FIPS_State,FIPS_County,order_code,Face_Masks_Required_in_Public,Source_of_Action,URL,Citation,Population
+34068,2020-02-01,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+37410,2020-02-02,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+40752,2020-02-03,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+44094,2020-02-04,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+47436,2020-02-05,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+50778,2020-02-06,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+54120,2020-02-07,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+57462,2020-02-08,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+60804,2020-02-09,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+64146,2020-02-10,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+67488,2020-02-11,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+70830,2020-02-12,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+74172,2020-02-13,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+77514,2020-02-14,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+80856,2020-02-15,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+84198,2020-02-16,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+87540,2020-02-17,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+90882,2020-02-18,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+94224,2020-02-19,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+97566,2020-02-20,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+100908,2020-02-21,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+104250,2020-02-22,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+107592,2020-02-23,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+110934,2020-02-24,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+114276,2020-02-25,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+117618,2020-02-26,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+120960,2020-02-27,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+124302,2020-02-28,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+127644,2020-02-29,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+130986,2020-03-01,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+134328,2020-03-02,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+137670,2020-03-03,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+141012,2020-03-04,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+144354,2020-03-05,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+147696,2020-03-06,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+151038,2020-03-07,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+154380,2020-03-08,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+157722,2020-03-09,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+161064,2020-03-10,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+164406,2020-03-11,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+167748,2020-03-12,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+171090,2020-03-13,0,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+174432,2020-03-14,1,1.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+177774,2020-03-15,1,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+181116,2020-03-16,1,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+184458,2020-03-17,26,25.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+187800,2020-03-18,45,19.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+191142,2020-03-19,54,9.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+194484,2020-03-20,54,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+197826,2020-03-21,65,11.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+201168,2020-03-22,79,14.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+204510,2020-03-23,95,16.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+207852,2020-03-24,103,8.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+211194,2020-03-25,131,28.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+214536,2020-03-26,131,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+217878,2020-03-27,199,68.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+221220,2020-03-28,202,3.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+224562,2020-03-29,274,72.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+227904,2020-03-30,320,46.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+231246,2020-03-31,356,36.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+234588,2020-04-01,392,36.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+237930,2020-04-02,448,56.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+241272,2020-04-03,500,52.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+244614,2020-04-04,590,90.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+247956,2020-04-05,656,66.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+251298,2020-04-06,715,59.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+254640,2020-04-07,795,80.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+257982,2020-04-08,875,80.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+261324,2020-04-09,943,68.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+264666,2020-04-10,1008,65.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+268008,2020-04-11,1048,40.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+271350,2020-04-12,1162,114.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+274692,2020-04-13,1223,61.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+278034,2020-04-14,1312,89.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+281376,2020-04-15,1386,74.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+284718,2020-04-16,1463,77.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+288060,2020-04-17,1560,97.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+291402,2020-04-18,1642,82.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+294744,2020-04-19,1695,53.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+298086,2020-04-20,1761,66.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+301428,2020-04-21,1864,103.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+304770,2020-04-22,1947,83.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+308112,2020-04-23,2047,100.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+311454,2020-04-24,2219,172.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+314796,2020-04-25,2311,92.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+318138,2020-04-26,2443,132.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+321480,2020-04-27,2628,185.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+324822,2020-04-28,2736,108.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+328164,2020-04-29,2870,134.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+331506,2020-04-30,3081,211.0,IL,DuPage County,17.0,43.0,2.0,0,0,0,0,932877
+334848,2020-05-01,3256,175.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+338190,2020-05-02,3432,176.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+341532,2020-05-03,3611,179.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+344874,2020-05-04,3803,192.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+348216,2020-05-05,3918,115.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+351558,2020-05-06,4056,138.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+354900,2020-05-07,4213,157.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+358242,2020-05-08,4374,161.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+361584,2020-05-09,4493,119.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+364926,2020-05-10,4603,110.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+368268,2020-05-11,4745,142.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+371610,2020-05-12,5121,376.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+374952,2020-05-13,5244,123.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+378294,2020-05-14,5453,209.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+381636,2020-05-15,5634,181.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+384978,2020-05-16,5780,146.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+388320,2020-05-17,5904,124.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+391662,2020-05-18,6076,172.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+395004,2020-05-19,6171,95.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+398346,2020-05-20,6308,137.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+401688,2020-05-21,6471,163.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+405030,2020-05-22,6744,273.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+408372,2020-05-23,6891,147.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+411714,2020-05-24,7060,169.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+415056,2020-05-25,7207,147.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+418398,2020-05-26,7290,83.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+421740,2020-05-27,7350,60.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+425082,2020-05-28,7460,110.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-32.pdf,"Ill. Exec. Order No. 2020-32 (Apr. 30, 2020)",932877
+428424,2020-05-29,7543,83.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+431766,2020-05-30,7620,77.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+435108,2020-05-31,7707,87.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+438450,2020-06-01,7765,58.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+441792,2020-06-02,7818,53.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+445134,2020-06-03,7891,73.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+448476,2020-06-04,7939,48.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+451818,2020-06-05,7997,58.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+455160,2020-06-06,8046,49.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+458502,2020-06-07,8111,65.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+461844,2020-06-08,8157,46.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+465186,2020-06-09,8215,58.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+468528,2020-06-10,8255,40.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+471870,2020-06-11,8311,56.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+475212,2020-06-12,8355,44.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+478554,2020-06-13,8389,34.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+481896,2020-06-14,8434,45.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+485238,2020-06-15,8465,31.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+488580,2020-06-16,8495,30.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+491922,2020-06-17,8546,51.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+495264,2020-06-18,8574,28.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+498606,2020-06-19,8609,35.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+501948,2020-06-20,8646,37.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+505290,2020-06-21,8682,36.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+508632,2020-06-22,8715,33.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+511974,2020-06-23,8736,21.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+515316,2020-06-24,8780,44.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+518658,2020-06-25,8825,45.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-38.aspx,"Ill. Exec. Order No. 2020-38 (May 29, 2020)",932877
+522000,2020-06-26,8879,54.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+525342,2020-06-27,8919,40.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+528684,2020-06-28,8951,32.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+532026,2020-06-29,8993,42.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+535368,2020-06-30,9032,39.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+538710,2020-07-01,9083,51.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+542052,2020-07-02,9145,62.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+545394,2020-07-03,9192,47.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+548736,2020-07-04,9267,75.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+552078,2020-07-05,9311,44.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+555420,2020-07-06,9364,53.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+558762,2020-07-07,9392,28.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+562104,2020-07-08,9454,62.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+565446,2020-07-09,9502,48.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+568788,2020-07-10,9571,69.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+572130,2020-07-11,9641,70.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+575472,2020-07-12,9719,78.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+578814,2020-07-13,9794,75.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+582156,2020-07-14,9810,16.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+585498,2020-07-15,9867,57.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+588840,2020-07-16,9917,50.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+592182,2020-07-17,10013,96.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+595524,2020-07-18,10107,94.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+598866,2020-07-19,10196,89.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+602208,2020-07-20,10317,121.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+605550,2020-07-21,10414,97.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+608892,2020-07-22,10531,117.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+612234,2020-07-23,10627,96.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-43.aspx,"Ill. Exec. Order No. 2020-43 (June 26, 2020)",932877
+615576,2020-07-24,10701,74.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+618918,2020-07-25,10771,70.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+622260,2020-07-26,10875,104.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+625602,2020-07-27,10953,78.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+628944,2020-07-28,11005,52.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+632286,2020-07-29,11084,79.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+635628,2020-07-30,11177,93.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+638970,2020-07-31,11267,90.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+642312,2020-08-01,11380,113.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+645654,2020-08-02,11470,90.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+648996,2020-08-03,11558,88.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+652338,2020-08-04,11689,131.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+655680,2020-08-05,11804,115.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+659022,2020-08-06,11926,122.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-48.aspx,"Ill. Exec. Order No. 2020-48 (July 24, 2020)",932877
+662364,2020-08-07,12021,95.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+665706,2020-08-08,12155,134.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+669048,2020-08-09,12233,78.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+672390,2020-08-10,12312,79.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+675732,2020-08-11,12427,115.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+679074,2020-08-12,12511,84.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+682416,2020-08-13,12592,81.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+685758,2020-08-14,12693,101.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+689100,2020-08-15,12815,122.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+692442,2020-08-16,12892,77.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+695784,2020-08-17,13032,140.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+699126,2020-08-18,13151,119.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+702468,2020-08-19,13289,138.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+705810,2020-08-20,13410,121.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.ilga.gov/commission/jcar/admincode/077/07700690sections.html,"Ill. Admin. Code tit. 77, pt. 690.50 (Aug. 21, 2020)",932877
+709152,2020-08-21,13530,120.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+712494,2020-08-22,13686,156.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+715836,2020-08-23,13778,92.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+719178,2020-08-24,13909,131.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+722520,2020-08-25,14001,92.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+725862,2020-08-26,14103,102.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+729204,2020-08-27,14200,97.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+732546,2020-08-28,14299,99.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+735888,2020-08-29,14398,99.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+739230,2020-08-30,14493,95.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+742572,2020-08-31,14615,122.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+745914,2020-09-01,14679,64.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+749256,2020-09-02,14770,91.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+752598,2020-09-03,14840,70.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+755940,2020-09-04,15109,269.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+759282,2020-09-05,15247,138.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+762624,2020-09-06,15322,75.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+765966,2020-09-07,15385,63.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+769308,2020-09-08,15499,114.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+772650,2020-09-09,15592,93.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+775992,2020-09-10,15704,112.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+779334,2020-09-11,15826,122.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+782676,2020-09-12,15938,112.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+786018,2020-09-13,16022,84.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+789360,2020-09-14,16123,101.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+792702,2020-09-15,16209,86.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+796044,2020-09-16,16304,95.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+799386,2020-09-17,16374,70.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-52.aspx,"Ill. Exec. Order No. 2020-52 (Aug. 21, 2020)",932877
+802728,2020-09-18,16488,114.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+806070,2020-09-19,16622,134.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+809412,2020-09-20,16694,72.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+812754,2020-09-21,16799,105.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+816096,2020-09-22,16883,84.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+819438,2020-09-23,16955,72.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+822780,2020-09-24,17091,136.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+826122,2020-09-25,17253,162.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+829464,2020-09-26,17393,140.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+832806,2020-09-27,17471,78.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+836148,2020-09-28,17589,118.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+839490,2020-09-29,17690,101.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+842832,2020-09-30,17786,96.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+846174,2020-10-01,17873,87.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+849516,2020-10-02,18021,148.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-55.aspx,"Ill. Exec. Order No. 2020-55 (Sept. 18, 2020)",932877
+852858,2020-10-03,18129,108.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-56.aspx,"Ill. Exec. Order No. 2020-56 (Oct. 2, 2020)",932877
+856200,2020-10-04,18209,80.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-56.aspx,"Ill. Exec. Order No. 2020-56 (Oct. 2, 2020)",932877
+859542,2020-10-05,18305,96.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-56.aspx,"Ill. Exec. Order No. 2020-56 (Oct. 2, 2020)",932877
+862884,2020-10-06,18414,109.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-56.aspx,"Ill. Exec. Order No. 2020-56 (Oct. 2, 2020)",932877
+866226,2020-10-07,18583,169.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-56.aspx,"Ill. Exec. Order No. 2020-56 (Oct. 2, 2020)",932877
+869568,2020-10-08,18788,205.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-56.aspx,"Ill. Exec. Order No. 2020-56 (Oct. 2, 2020)",932877
+872910,2020-10-09,18985,197.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+876252,2020-10-10,19156,171.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+879594,2020-10-11,19310,154.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+882936,2020-10-12,19467,157.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+886278,2020-10-13,19640,173.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+889620,2020-10-14,19767,127.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+892962,2020-10-15,19967,200.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-58.aspx,"Ill. Exec. Order No. 2020-58 (Oct. 9, 2020)",932877
+896304,2020-10-16,20277,310.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-59.aspx,"Ill. Exec. Order No. 2020-59 (Oct. 16, 2020)",932877
+899646,2020-10-17,20477,200.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-59.aspx,"Ill. Exec. Order No. 2020-59 (Oct. 16, 2020)",932877
+902988,2020-10-18,20724,247.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-59.aspx,"Ill. Exec. Order No. 2020-59 (Oct. 16, 2020)",932877
+906330,2020-10-19,20947,223.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-59.aspx,"Ill. Exec. Order No. 2020-59 (Oct. 16, 2020)",932877
+909672,2020-10-20,21231,284.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-59.aspx,"Ill. Exec. Order No. 2020-59 (Oct. 16, 2020)",932877
+913014,2020-10-21,21470,239.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-59.aspx,"Ill. Exec. Order No. 2020-59 (Oct. 16, 2020)",932877
+916356,2020-10-22,21776,306.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-60.aspx,"Ill. Exec. Order No. 2020-60 (Oct. 21, 2020)",932877
+919698,2020-10-23,22100,324.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-61.aspx,"Ill. Exec. Order No. 2020-61 (Oct. 21, 2020)",932877
+923040,2020-10-24,22546,446.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-61.aspx,"Ill. Exec. Order No. 2020-61 (Oct. 21, 2020)",932877
+926382,2020-10-25,22783,237.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-62.pdf,"Ill. Exec. Order No. 2020-62 (Oct. 23, 2020)",932877
+929724,2020-10-26,23099,316.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-62.pdf,"Ill. Exec. Order No. 2020-62 (Oct. 23, 2020)",932877
+933066,2020-10-27,23408,309.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-62.pdf,"Ill. Exec. Order No. 2020-62 (Oct. 23, 2020)",932877
+936408,2020-10-28,23780,372.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-63.pdf,"Ill. Exec. Order No. 2020-63 (Oct. 27, 2020)",932877
+939750,2020-10-29,24240,460.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-63.pdf,"Ill. Exec. Order No. 2020-63 (Oct. 27, 2020)",932877
+943092,2020-10-30,24696,456.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-64.pdf,"Ill. Exec. Order No. 2020-64 (Oct. 29, 2020)",932877
+946434,2020-10-31,25201,505.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-65.pdf,"Ill. Exec. Order No. 2020-65 (Oct. 29, 2020)",932877
+949776,2020-11-01,25681,480.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-66.pdf,"Ill. Exec. Order No. 2020-66 (Oct. 29, 2020)",932877
+953118,2020-11-02,26065,384.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-67.pdf,"Ill. Exec. Order No. 2020-67 (Oct. 30, 2020)",932877
+956460,2020-11-03,26512,447.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-67.pdf,"Ill. Exec. Order No. 2020-67 (Oct. 30, 2020)",932877
+959802,2020-11-04,27065,553.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+963144,2020-11-05,27584,519.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+966486,2020-11-06,28834,1250.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+969828,2020-11-07,29541,707.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+973170,2020-11-08,30244,703.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+976512,2020-11-09,30977,733.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+979854,2020-11-10,31830,853.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-69.pdf,"Ill. Exec. Order No. 2020-69 (Nov. 2, 2020)",932877
+983196,2020-11-11,32487,657.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-70.pdf,"Ill. Exec. Order No. 2020-70 (Nov. 10, 2020)",932877
+986538,2020-11-12,33102,615.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-70.pdf,"Ill. Exec. Order No. 2020-70 (Nov. 10, 2020)",932877
+989880,2020-11-13,33851,749.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+993222,2020-11-14,34607,756.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+996564,2020-11-15,35284,677.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+999906,2020-11-16,35878,594.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+1003248,2020-11-17,36941,1063.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+1006590,2020-11-18,37632,691.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+1009932,2020-11-19,38670,1038.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-71.aspx,"Ill. Exec. Order No. 2020-71 (Nov. 13, 2020)",932877
+1013274,2020-11-20,39547,877.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1016616,2020-11-21,40314,767.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1019958,2020-11-22,41006,692.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1023300,2020-11-23,41602,596.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1026642,2020-11-24,42201,599.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1029984,2020-11-25,42881,680.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1033326,2020-11-26,43513,632.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1036668,2020-11-27,44035,522.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1040010,2020-11-28,44656,621.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1043352,2020-11-29,45087,431.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1046694,2020-11-30,45446,359.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1050036,2020-12-01,47179,1733.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1053378,2020-12-02,47742,563.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1056720,2020-12-03,48499,757.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1060062,2020-12-04,49311,812.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1063404,2020-12-05,49976,665.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1066746,2020-12-06,50484,508.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1070088,2020-12-07,51051,567.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1073430,2020-12-08,51672,621.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1076772,2020-12-09,52300,628.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1080114,2020-12-10,52882,582.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-73.pdf,"Ill. Exec. Order No. 2020-73 (Nov. 18, 2020)",932877
+1083456,2020-12-11,53456,574.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1086798,2020-12-12,54080,624.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1090140,2020-12-13,54533,453.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1093482,2020-12-14,55013,480.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1096824,2020-12-15,55495,482.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1100166,2020-12-16,55941,446.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1103508,2020-12-17,56512,571.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1106850,2020-12-18,56881,369.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1110192,2020-12-19,57421,540.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1113534,2020-12-20,57784,363.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1116876,2020-12-21,58048,264.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1120218,2020-12-22,58402,354.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1123560,2020-12-23,58741,339.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1126902,2020-12-24,59212,471.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1130244,2020-12-25,59577,365.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1133586,2020-12-26,59758,181.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1136928,2020-12-27,60077,319.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1140270,2020-12-28,60473,396.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1143612,2020-12-29,60839,366.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1146954,2020-12-30,61271,432.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1150296,2020-12-31,61805,534.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1153638,2021-01-01,61805,0.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1156980,2021-01-02,62676,871.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1160322,2021-01-03,63022,346.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2020/ExecutiveOrder-2020-74.pdf,"Ill. Exec. Order No. 2020-74 (Dec. 11, 2020)",932877
+1163664,2021-01-04,63396,374.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.dph.illinois.gov/sites/default/files/COVID19/77-690.50%20Emergency%20Rule_Mask%20Mandate_010421.pdf,"Ill. Admin. Code tit. 77, pt. 690.50 (Jan. 4, 2021)",932877
+1167006,2021-01-05,63831,435.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.dph.illinois.gov/sites/default/files/COVID19/77-690.50%20Emergency%20Rule_Mask%20Mandate_010421.pdf,"Ill. Admin. Code tit. 77, pt. 690.50 (Jan. 4, 2021)",932877
+1170348,2021-01-06,64259,428.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.dph.illinois.gov/sites/default/files/COVID19/77-690.50%20Emergency%20Rule_Mask%20Mandate_010421.pdf,"Ill. Admin. Code tit. 77, pt. 690.50 (Jan. 4, 2021)",932877
+1173690,2021-01-07,64755,496.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www.dph.illinois.gov/sites/default/files/COVID19/77-690.50%20Emergency%20Rule_Mask%20Mandate_010421.pdf,"Ill. Admin. Code tit. 77, pt. 690.50 (Jan. 4, 2021)",932877
+1177032,2021-01-08,65385,630.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1180374,2021-01-09,65784,399.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1183716,2021-01-10,66084,300.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1187058,2021-01-11,66414,330.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1190400,2021-01-12,66858,444.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1193742,2021-01-13,67271,413.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1197084,2021-01-14,67651,380.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-01.pdf,"Ill. Exec. Order No. 2021-1 (Jan. 8, 2021)",932877
+1200426,2021-01-15,68156,505.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-02.pdf,"Ill. Exec. Order No. 2021-2 (Jan. 15, 2021)",932877
+1203768,2021-01-16,68534,378.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-02.pdf,"Ill. Exec. Order No. 2021-2 (Jan. 15, 2021)",932877
+1207110,2021-01-17,68737,203.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-02.pdf,"Ill. Exec. Order No. 2021-2 (Jan. 15, 2021)",932877
+1210452,2021-01-18,68970,233.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-02.pdf,"Ill. Exec. Order No. 2021-2 (Jan. 15, 2021)",932877
+1213794,2021-01-19,69285,315.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1217136,2021-01-20,69579,294.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1220478,2021-01-21,69900,321.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1223820,2021-01-22,70324,424.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1227162,2021-01-23,70712,388.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1230504,2021-01-24,70890,178.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1233846,2021-01-25,71070,180.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1237188,2021-01-26,71323,253.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1240530,2021-01-27,71529,206.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1243872,2021-01-28,71819,290.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1247214,2021-01-29,72068,249.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1250556,2021-01-30,72279,211.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1253898,2021-01-31,72454,175.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1257240,2021-02-01,72610,156.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1260582,2021-02-02,72732,122.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1263924,2021-02-03,72945,213.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1267266,2021-02-04,73167,222.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-03.pdf,"Ill. Exec. Order No. 2021-3 (Jan. 19, 2021)",932877
+1270608,2021-02-05,73399,232.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1273950,2021-02-06,73602,203.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1277292,2021-02-07,73692,90.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1280634,2021-02-08,73832,140.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1283976,2021-02-09,73981,149.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1287318,2021-02-10,74151,170.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1290660,2021-02-11,74406,255.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1294002,2021-02-12,74578,172.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1297344,2021-02-13,74742,164.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1300686,2021-02-14,74877,135.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1304028,2021-02-15,74991,114.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1307370,2021-02-16,75140,149.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1310712,2021-02-17,75281,141.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1314054,2021-02-18,75419,138.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1317396,2021-02-19,75587,168.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1320738,2021-02-20,75701,114.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1324080,2021-02-21,75826,125.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1327422,2021-02-22,76009,183.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1330764,2021-02-23,76156,147.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1334106,2021-02-24,76287,131.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1337448,2021-02-25,76398,111.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1340790,2021-02-26,76542,144.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1344132,2021-02-27,76659,117.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1347474,2021-02-28,76765,106.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1350816,2021-03-01,76871,106.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1354158,2021-03-02,77025,154.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1357500,2021-03-03,77279,254.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1360842,2021-03-04,77406,127.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-04.pdf,"Ill. Exec. Order No. 2021-4 (Feb. 5, 2021)",932877
+1364184,2021-03-05,77506,100.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1367526,2021-03-06,77796,290.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1370868,2021-03-07,77882,86.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1374210,2021-03-08,77960,78.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1377552,2021-03-09,78098,138.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1380894,2021-03-10,78207,109.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1384236,2021-03-11,78341,134.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1387578,2021-03-12,78450,109.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1390920,2021-03-13,78589,139.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1394262,2021-03-14,78889,300.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1397604,2021-03-15,79010,121.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1400946,2021-03-16,79165,155.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1404288,2021-03-17,79328,163.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1407630,2021-03-18,79511,183.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1410972,2021-03-19,79730,219.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1414314,2021-03-20,79898,168.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1417656,2021-03-21,79994,96.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1420998,2021-03-22,80121,127.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1424340,2021-03-23,80285,164.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1427682,2021-03-24,80560,275.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1431024,2021-03-25,80728,168.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1434366,2021-03-26,80980,252.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1437708,2021-03-27,81165,185.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1441050,2021-03-28,81323,158.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1444392,2021-03-29,81487,164.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1447734,2021-03-30,81698,211.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1451076,2021-03-31,81889,191.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1454418,2021-04-01,82163,274.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-05.pdf,"Ill. Exec. Order No. 2021-5 (Mar. 5, 2021)",932877
+1457760,2021-04-02,82391,228.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1461102,2021-04-03,82635,244.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1464444,2021-04-04,82864,229.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1467786,2021-04-05,83031,167.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1471128,2021-04-06,83350,319.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1474470,2021-04-07,83637,287.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1477812,2021-04-08,83927,290.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1481154,2021-04-09,84261,334.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1484496,2021-04-10,84570,309.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1487838,2021-04-11,84777,207.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1491180,2021-04-12,85016,239.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1494522,2021-04-13,85272,256.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1497864,2021-04-14,85523,251.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1501206,2021-04-15,85799,276.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1504548,2021-04-16,85994,195.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1507890,2021-04-17,86225,231.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1511232,2021-04-18,86397,172.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1514574,2021-04-19,86547,150.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1517916,2021-04-20,86723,176.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1521258,2021-04-21,86921,198.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1524600,2021-04-22,87172,251.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1527942,2021-04-23,87430,258.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1531284,2021-04-24,87668,238.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1534626,2021-04-25,87807,139.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1537968,2021-04-26,87994,187.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1541310,2021-04-27,88158,164.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1544652,2021-04-28,88323,165.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1547994,2021-04-29,88519,196.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://www2.illinois.gov/Documents/ExecOrders/2021/ExecutiveOrder-2021-06.pdf,"Ill. Exec. Order No. 2021-6 (Apr. 2, 2021)",932877
+1551336,2021-04-30,88752,233.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1554678,2021-05-01,88941,189.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1558020,2021-05-02,89043,102.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1561362,2021-05-03,89180,137.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1564704,2021-05-04,89343,163.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1568046,2021-05-05,89505,162.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1571388,2021-05-06,89618,113.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1574730,2021-05-07,89821,203.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1578072,2021-05-08,89941,120.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1581414,2021-05-09,90032,91.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1584756,2021-05-10,90140,108.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1588098,2021-05-11,90266,126.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1591440,2021-05-12,90387,121.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1594782,2021-05-13,90503,116.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1598124,2021-05-14,90628,125.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1601466,2021-05-15,90731,103.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1604808,2021-05-16,90799,68.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-09.html,"Ill. Exec. Order No. 2021-09 (Apr. 30, 2021)",932877
+1608150,2021-05-17,90835,36.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1611492,2021-05-18,90946,111.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1614834,2021-05-19,91075,129.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1618176,2021-05-20,91170,95.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1621518,2021-05-21,91288,118.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1624860,2021-05-22,91352,64.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1628202,2021-05-23,91423,71.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1631544,2021-05-24,91498,75.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1634886,2021-05-25,91548,50.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1638228,2021-05-26,91623,75.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1641570,2021-05-27,91658,35.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-10.html,"Ill. Exec. Order No. 2021-10 (May 17, 2021)",932877
+1644912,2021-05-28,91717,59.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1648254,2021-05-29,91771,54.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1651596,2021-05-30,91814,43.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1654938,2021-05-31,91860,46.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1658280,2021-06-01,91893,33.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1661622,2021-06-02,91907,14.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1664964,2021-06-03,91981,74.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1668306,2021-06-04,92068,87.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1671648,2021-06-05,92132,64.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1674990,2021-06-06,92142,10.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1678332,2021-06-07,92170,28.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1681674,2021-06-08,92213,43.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1685016,2021-06-09,92249,36.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1688358,2021-06-10,92264,15.0,IL,DuPage County,17.0,43.0,1.0,Yes,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-11.html,"Ill. Exec. Order No. 2021-11 (May 28, 2021)",932877
+1691700,2021-06-11,92281,17.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1695042,2021-06-12,92297,16.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1698384,2021-06-13,92309,12.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1701726,2021-06-14,92318,9.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1705068,2021-06-15,92328,10.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1708410,2021-06-16,92351,23.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1711752,2021-06-17,92362,11.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1715094,2021-06-18,92368,6.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1718436,2021-06-19,92368,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1721778,2021-06-20,92368,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1725120,2021-06-21,92413,45.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1728462,2021-06-22,92425,12.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1731804,2021-06-23,92446,21.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1735146,2021-06-24,92446,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/ExecutiveOrder-2021-12.pdf,"Ill. Exec. Order No. 2021-12 (June 11, 2021)",932877
+1738488,2021-06-25,92473,27.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1741830,2021-06-26,92473,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1745172,2021-06-27,92473,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1748514,2021-06-28,92547,74.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1751856,2021-06-29,92561,14.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1755198,2021-06-30,92565,4.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1758540,2021-07-01,92579,14.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1761882,2021-07-02,92595,16.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1765224,2021-07-03,92595,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1768566,2021-07-04,92595,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1771908,2021-07-05,92595,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1775250,2021-07-06,92651,56.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1778592,2021-07-07,92668,17.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1781934,2021-07-08,92688,20.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1785276,2021-07-09,92713,25.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1788618,2021-07-10,92713,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1791960,2021-07-11,92713,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1795302,2021-07-12,92788,75.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1798644,2021-07-13,92808,20.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1801986,2021-07-14,92846,38.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1805328,2021-07-15,92888,42.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1808670,2021-07-16,92920,32.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1812012,2021-07-17,92920,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1815354,2021-07-18,92920,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1818696,2021-07-19,93057,137.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1822038,2021-07-20,93095,38.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1825380,2021-07-21,93155,60.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1828722,2021-07-22,93274,119.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executiveorder-2021-14.pdf,"Ill. Exec. Order No. 2021-14 (June 25, 2021)",932877
+1832064,2021-07-23,93353,79.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1835406,2021-07-24,93353,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1838748,2021-07-25,93353,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1842090,2021-07-26,93568,215.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1845432,2021-07-27,93641,73.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1848774,2021-07-28,93753,112.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1852116,2021-07-29,93852,99.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1855458,2021-07-30,94007,155.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1858800,2021-07-31,94007,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1862142,2021-08-01,94007,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1865484,2021-08-02,94295,288.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1868826,2021-08-03,94445,150.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/resources/executive-orders/display.executive-order-2021-15.html,"Ill. Exec. Order No. 2021-15 (July 23, 2021)",932877
+1872168,2021-08-04,94558,113.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1875510,2021-08-05,94782,224.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1878852,2021-08-06,94926,144.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1882194,2021-08-07,94926,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1885536,2021-08-08,94926,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1888878,2021-08-09,95374,448.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1892220,2021-08-10,95529,155.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1895562,2021-08-11,95750,221.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1898904,2021-08-12,95914,164.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1902246,2021-08-13,96160,246.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1905588,2021-08-14,96160,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1908930,2021-08-15,96160,0.0,IL,DuPage County,17.0,43.0,2.0,No,Official,https://coronavirus.illinois.gov/content/dam/soi/en/web/coronavirus/documents/executive-order-2021-18.pdf,"Ill. Exec. Order No. 2021-18 (Aug. 4, 2021)",932877
+1912272,2021-08-16,96689,529.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1915614,2021-08-17,96851,162.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1918956,2021-08-18,96987,136.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1922298,2021-08-19,97141,154.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1925640,2021-08-20,97397,256.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1928982,2021-08-21,97397,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1932324,2021-08-22,97397,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1935666,2021-08-23,97864,467.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1939008,2021-08-24,98022,158.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1942350,2021-08-25,98245,223.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1945692,2021-08-26,98462,217.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1949034,2021-08-27,98780,318.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1952376,2021-08-28,98780,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1955718,2021-08-29,98780,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1959060,2021-08-30,99315,535.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1962402,2021-08-31,99590,275.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1965744,2021-09-01,99854,264.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1969086,2021-09-02,100120,266.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1972428,2021-09-03,100436,316.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1975770,2021-09-04,100436,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1979112,2021-09-05,100436,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1982454,2021-09-06,100436,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1985796,2021-09-07,101096,660.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1989138,2021-09-08,101319,223.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1992480,2021-09-09,101493,174.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1995822,2021-09-10,101781,288.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+1999164,2021-09-11,101781,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2002506,2021-09-12,101781,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2005848,2021-09-13,102230,449.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2009190,2021-09-14,102512,282.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2012532,2021-09-15,102689,177.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2015874,2021-09-16,102939,250.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2019216,2021-09-17,103152,213.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2022558,2021-09-18,103152,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2025900,2021-09-19,103152,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2029242,2021-09-20,103580,428.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2032584,2021-09-21,103738,158.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2035926,2021-09-22,103917,179.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2039268,2021-09-23,104074,157.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2042610,2021-09-24,104268,194.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2045952,2021-09-25,104268,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2049294,2021-09-26,104268,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2052636,2021-09-27,104661,393.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2055978,2021-09-28,104762,101.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2059320,2021-09-29,104910,148.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2062662,2021-09-30,105071,161.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2066004,2021-10-01,105273,202.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2069346,2021-10-02,105273,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2072688,2021-10-03,105273,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2076030,2021-10-04,105694,421.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2079372,2021-10-05,105921,227.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2082714,2021-10-06,106076,155.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2086056,2021-10-07,106259,183.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2089398,2021-10-08,106401,142.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2092740,2021-10-09,106401,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2096082,2021-10-10,106401,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2099424,2021-10-11,106401,0.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2102766,2021-10-12,106932,531.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2106108,2021-10-13,107150,218.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2109450,2021-10-14,107312,162.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
+2112792,2021-10-15,107465,153.0,0,0,0.0,0.0,0.0,0,0,0,0,932877
