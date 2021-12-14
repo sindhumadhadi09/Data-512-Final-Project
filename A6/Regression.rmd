@@ -1,0 +1,54 @@
+---
+title: "Covid Analysis Project Data 512"
+owner: "Sindhu Madhadi"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
+
+```{r message = FALSE, warning = FALSE}
+library(tidyverse)
+library(knitr)
+library(dplyr)
+library(ggpubr)
+library(readr)
+```
+
+
+```{r}
+
+data <- as.data.frame(read.csv("/Users/dinsind/Documents/SindhuWork/Data_512/A6_project_presentation/Dupgae_Vaccines_cleaned_data.csv"))
+```
+
+```{r}
+All_Factors_percent_Model=lm(DailyCases ~ Series_Complete_12PlusPop_Pct+Series_Complete_18PlusPop_Pct+Series_Complete_65PlusPop_Pct, data =data)
+#Regression 
+summary(All_Factors_percent_Model)
+```
+
+
+```{r}
+zvalues <- summary(All_Factors_percent_Model)$coefficients / summary(All_Factors_percent_Model)$standard.errors
+zvalues
+pvalue=pnorm(abs(zvalues), lower.tail=FALSE)*2
+pvalue
+#Confindence Intervals
+confint(All_Factors_percent_Model)
+```
+
+
+```{r}
+plot(All_Factors_percent_Model,which=1)
+plot(density(All_Factors_percent_Model$residuals))
+```
+
+```{r}
+
+```
+
+
+
+
+
