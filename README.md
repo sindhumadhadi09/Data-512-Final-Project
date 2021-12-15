@@ -57,16 +57,25 @@ The following are the vizulization graphs, I plotted from the vaccinations data 
 
 
 No of confirmed cases vs percentage of people vaccinated.
+No of confirmed cases vs percentage of people vaccinated vs people who has taken one dose.
 No of confirmed cases vs percentage of 12 plus people vaccinated 
 No of confirmed cases vs percentage of 18 plus people vaccinated 
 No of confirmed cases vs percentage of 65 plus people vaccinated 
 Few more trends along with date.
 
 ### Visualization results
+
 From the graphs I see that there is a decrease in the Confirmed Covid cases with incraese in vaccination.It was not continuous decrease but when we see on bigger picture on overall scenarios there is a decrease in confirmed cases.
 In the period 2021-08 we saw increase in cases than 2021-07, but I think this can be my future work to explore more why in this period of time cases increased.
 I see the same results for all the three age group of people :12plus, 18plus, 65plus.
+
 The graphs can be found in the link:
+https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_12Plus.png (12 Plus graph)
+https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_12Plus_1.png(12 plus along with date feature)
+https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_18Plus.png(18 plus along with date feature)
+https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_65Plus.png(65 plus along with date feature)
+https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends.png(No of confirmed cases vs percentage of people vaccinated.)
+https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_1.png(No of confirmed cases vs percentage of people vaccinated vs people who has taken one dose.)
 
 
 ### Regression Analysis
