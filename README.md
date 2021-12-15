@@ -79,14 +79,14 @@ Series_Complete_12PlusPop_Pct
 Call :  lm(formula = DailyCases ~   Series_Complete_12PlusPop_Pct + Series_Complete_18PlusPop_Pct + Series_Complete_65PlusPop_Pct, data = data) 
 
 
-### Regression Results:
+### Regression Results
 
 Based on p-values, if p-value is less than alpha (0.05), then the variable is statistically significant.
 So,from the model all the variables which are statistically significant. Changes in these variables result in the change of Cases Count.
 
 Based on the coefficients sign, we get whether it has a positive or negative correlation between the variables and the Cases Count.
 
-# Conclusions:
+# Conclusions
 
 Through my analysis, I can conclude that the vaccinations has effect on had an impact on the housing market in Mecklenburg County. We can see that COVID-19 pandemic has impacted both supply and demand in the housing market.  People wanted to take advantage of lower mortgage rates which caused the demand for housing to go up.
 
