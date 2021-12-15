@@ -110,21 +110,18 @@ To conclude, this study informs the reader of their understanding of human cente
 # Libraries Used:
 1. pandas
 2. numpy
-3. json
-4. requests
-5. matplotlib
+3. matplotlib
+4. datetime
 
 
 # References
 
-# Human Centered Data Science Perspective
-In my analysis, I have made an effort to address a variety of human-cenetered data science considerations including:
+# Factors Considering Human-Centerd Data scienec concepts
+In my analysis, I have tried to address a variety of human-cenetered data science considerations:
 
-1. Licenses: I ensured that the research is licensed under a MIT license so others can use it.
-2. Copyright: Appropriately citing sources of data, tools, and inspiration
-3. Interpretability: Following a literate programming style to explain decisions made along the way that impact the final results of my analysis
-4. Reproduciblity: Making my research reproducible by providing information about my environment, how I used the data, and where I received my data in addition to including my data in my repository so that anyone could run my notebooks to replicate my results
-5. Interpretability: I hav used methods like Linear regression that are very transparent and easy to understand for the audience of the research. Also I have used visualisation to convey the informaion in a simple manner to promote this goal.
+1. Licenses: The project is Licences under MIT for others to use it.
+2. Reproduciblity: Making my analysis reproducible by giving the information about data source and analysis docs,to tell how to use them, showing the results and conclusions for users to check from their reproducibility.
+3. Interpretability: I hav used methods like Multiple Linear regression that are transparent and easy to understand for the the users or audience.
 
 # Issues
 I wasn't able to upload the data_raw files to github due to file size issues - instead the data can be found in the following reference.
