@@ -103,11 +103,10 @@ Based on the coefficients sign, we get whether it has a positive or negative cor
 
 # Conclusions
 
-Through my analysis, I can conclude that the vaccinations has effect on had an impact on the housing market in Mecklenburg County. We can see that COVID-19 pandemic has impacted both supply and demand in the housing market.  People wanted to take advantage of lower mortgage rates which caused the demand for housing to go up.
+From the graphs and regression it is evident that with increase in no of people taking vaccine there is a decrease in the cases count in DuPage County
 
-However the pandemic also fueled a shortage in supply of homes - both newly built and those sold by existing owners.  We can see a decline in housing inventory, number of new listings on the market as covid cases increased.  Thus we can conclude that an increased demand and a shortage in supply fueled the median sale price of the homes to go up throughout the pandemic. 
+Also, from the regression we found that the data is statistically significant.
 
-To conclude, this study informs the reader of their understanding of human centered data science as it is important to pay attention to this trend and for the government to take action. It is important to fix this gap between supply and demand by building more homes where people need it, otherwise this inequality will continue to skyrocket and a growing number of Americans will be shut out of the housing market altogether.
 
 # Limitations
 1.Few missing data points in the data are the current data set is from 12/13/2020 to 11/09/2021, our A4 common analysis is from February 1, 2020, through October 15, 2021.
