@@ -70,11 +70,17 @@ In the period 2021-08 we saw increase in cases than 2021-07, but I think this ca
 I see the same results for all the three age group of people :12plus, 18plus, 65plus.
 
 The graphs can be found in the link:
+
 https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_12Plus.png (12 Plus graph)
+
 https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_12Plus_1.png(12 plus along with date feature)
+
 https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_18Plus.png(18 plus along with date feature)
+
 https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_65Plus.png(65 plus along with date feature)
+
 https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends.png(No of confirmed cases vs percentage of people vaccinated.)
+
 https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/vaccine_trends_1.png(No of confirmed cases vs percentage of people vaccinated vs people who has taken one dose.)
 
 
