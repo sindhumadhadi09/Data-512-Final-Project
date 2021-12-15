@@ -6,7 +6,7 @@ The project was divided into 4 parts:
 
 Assignment A4: A Common Analysis where we do our base analysis on the Mask Mandate data of Illinois Dupage County and Confirmed Cases in the Dupage County.
 
-Assignment A5: Extends the A4 analysis,  through the lens of human centered data science. In my analysis, I uses the Vacciation Data for the same county.
+Assignment A5: Extends the A4 analysis,  through the lens of human-centered data science. In my analysis, I use the Vaccination Data for the same county.
 
 Assignment A6: Presentation.
 
@@ -47,27 +47,27 @@ Series_Complete_65Plus (65+ population who got vaccinated)
 Series_Complete_65PlusPop_Pct (percentage of 65+ population who got vaccinated)
 Metro_status (If it is a metro or non-metro)
 
-Note:For A4 Analysis or Methodology is written respective folder
+Note: For A4 Analysis or Methodology is written respective folder
 
 # Methodology
 
 ### Find the trends of Vaccination in COVID in Dupage Illinois
-I tried to find the trends in data by diffrent visulizations, ie by seeing the relation between vaccines taken by different agae group people and the number of cases in the county.
-The following are the vizulization graphs, I plotted from the vaccinations data megerd with the final data which we got from the Analysis of Mask Mandate and Illinois Data.
+I tried to find the trends in data by different visualizations, ie by seeing the relation between vaccines taken by different age groups people and the number of cases in the county.
+The following are the visualization graphs, I plotted from the vaccinations data merged with the final data which we got from the Analysis of Mask Mandate and Illinois Data.
 
 
-No of confirmed cases vs percentage of people vaccinated.
-No of confirmed cases vs percentage of people vaccinated vs people who has taken one dose.
-No of confirmed cases vs percentage of 12 plus people vaccinated 
-No of confirmed cases vs percentage of 18 plus people vaccinated 
-No of confirmed cases vs percentage of 65 plus people vaccinated 
+No. of confirmed cases vs percentage of people vaccinated.
+No. of confirmed cases vs percentage of people vaccinated vs people who have taken one dose.
+No. of confirmed cases vs percentage of 12 plus people vaccinated 
+No. of confirmed cases vs percentage of 18 plus people vaccinated 
+No. of confirmed cases vs percentage of 65 plus people vaccinated 
 Few more trends along with date.
 
 ### Visualization results
 
-From the graphs I see that there is a decrease in the Confirmed Covid cases with incraese in vaccination.It was not continuous decrease but when we see on bigger picture on overall scenarios there is a decrease in confirmed cases.
-In the period 2021-08 we saw increase in cases than 2021-07, but I think this can be my future work to explore more why in this period of time cases increased.
-I see the same results for all the three age group of people :12plus, 18plus, 65plus.
+From the graphs, I see that there is a decrease in the Confirmed Covid cases with an increase in vaccination. It was not a continuous decrease but when we see on bigger picture on overall scenarios there is a decrease in confirmed cases.
+In the period 2021-08, we saw an increase in cases than 2021-07, but I think this can be my future work to explore more why in this period cases increased.
+I see the same results for all the three age groups of people:12plus, 18plus, 65plus.
 
 The graphs can be found in the link:
 
@@ -85,7 +85,7 @@ https://github.com/sindhumadhadi09/Data-512-Final-Project/blob/main/A6/Output/va
 
 
 ### Regression Analysis
-I want to check the correlation of  different age group people vaccinated in our dataset, and their impact on the increase in Covid cases. 
+I want to check the correlation of different age group of people vaccinated in our dataset, and their impact on the increase in Covid cases. 
 I selected these 3 variables in the dataset for our analysis and checked whether they are statistically significant:
 Series_Complete_18PlusPop_pct
 Series_Complete_65PlusPop_Pct
@@ -96,20 +96,20 @@ Call :  lm(formula = DailyCases ~   Series_Complete_12PlusPop_Pct + Series_Compl
 
 ### Regression Results
 
-Based on p-values, if p-value is less than alpha (0.05), then the variable is statistically significant.
-So,from the model all the variables which are statistically significant. Changes in these variables result in the change of Cases Count.
+Based on p-values, if the p-value is less than alpha (0.05), then the variable is statistically significant.
+So, from the model, all the variables are statistically significant. Changes in these variables result in the change of Cases Count.
 
-Based on the coefficients sign, we get whether it has a positive or negative correlation between the variables and the Cases Count.
+Based on the sign of the coefficient, we get whether it has a positive or negative correlation between the variables and the Cases Count.
 
 # Conclusions
 
-From the graphs and regression it is evident that with increase in no of people taking vaccine there is a decrease in the cases count in DuPage County
+From the graphs and regression, it is evident that with an increase in no of people taking vaccines there is a decrease in the case count in DuPage County.
 
-Also, from the regression we found that the data is statistically significant.
+Also, from the regression, we found that the data is statistically significant.
 
 
 # Limitations
-1.Few missing data points in the data are the current data set is from 12/13/2020 to 11/09/2021, our A4 common analysis is from February 1, 2020, through October 15, 2021.
+1. Few missing data points in the data are the current data set is from 12/13/2020 to 11/09/2021, our A4 common analysis is from February 1, 2020, through October 15, 2021.
 2. So there is a gap in the period, I couldn’t find a dataset exactly matching this period. 
 
 
@@ -159,17 +159,15 @@ Also, from the regression we found that the data is statistically significant.
 4. datetime
 
 
-# References
-
-# Factors Considering Human-Centerd Data scienec concepts
-In my analysis, I have tried to address a variety of human-cenetered data science considerations:
+### Factors Considering Human-Centered Data science concepts
+In my analysis, I have tried to address a variety of human-centered data science considerations:
 
 1. Licenses: The project is Licences under MIT for others to use it.
-2. Reproduciblity: Making my analysis reproducible by giving the information about data source and analysis docs,to tell how to use them, showing the results and conclusions for users to check from their reproducibility.
-3. Interpretability: I hav used methods like Multiple Linear regression that are transparent and easy to understand for the the users or audience.
+2. Reproducibility: Making my analysis reproducible by giving the information about data source and analysis docs, to tell how to use them, showing the results and conclusions for users to check from their reproducibility.
+3. Interpretability: I have used methods like Multiple Linear regression that are transparent and easy to understand for the users or audience.
 
 # Issues
-I wasn't able to upload the data_raw files to github due to file size issues - instead the data can be found in the following Link. https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
+I wasn't able to upload the data_raw files to GitHub due to file size issues - instead, the data can be found in the following Link. https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
 
 
 
