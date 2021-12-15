@@ -169,7 +169,7 @@ In my analysis, I have tried to address a variety of human-cenetered data scienc
 3. Interpretability: I hav used methods like Multiple Linear regression that are transparent and easy to understand for the the users or audience.
 
 # Issues
-I wasn't able to upload the data_raw files to github due to file size issues - instead the data can be found in the following reference.
+I wasn't able to upload the data_raw files to github due to file size issues - instead the data can be found in the following Link. https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh
 
 
 
