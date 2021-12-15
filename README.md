@@ -119,7 +119,38 @@ To conclude, this study informs the reader of their understanding of human cente
 
 # Folder Structure
 ```
-
+.
+├── A4
+│   ├── A4.ipynb
+│   ├── A4_common_analysis.pdf
+│   ├── Analysis_Output
+│   │   ├── DuPage(Illinois)_daily_cases.png
+│   │   ├── Dupage(illinois)dailyCases_on_mask_mandate.png
+│   │   └── Dupage(llinois)_Cummulative_with_mask_on_Date.png
+│   └── Data_Cleaned
+│       ├── Dupage(illinois_cases).csv
+│       ├── mergerd_data.csv
+│       └── number_of_daily_cases.csv
+├── A5
+│   └── A5_Extension_Plan.pdf
+├── A6
+│   ├── A6.ipynb
+│   ├── Covid\ Analysis.pptx
+│   ├── Data_cleaned
+│   │   ├── Dupgae_Vaccines_cleaned_data.csv
+│   │   ├── Dupgae_Vaccines_data.csv
+│   │   ├── Dupgae_Vaccines_merged_data.csv
+│   │   └── new
+│   ├── Output
+│   │   ├── vaccine_trends.png
+│   │   ├── vaccine_trends_1.png
+│   │   ├── vaccine_trends_12Plus.png
+│   │   ├── vaccine_trends_12Plus_1.png
+│   │   ├── vaccine_trends_18Plus.png
+│   │   └── vaccine_trends_65Plus.png
+│   └── Regression.rmd
+├── LICENSE
+└── README.md
 
 ```
 # Libraries Used:
